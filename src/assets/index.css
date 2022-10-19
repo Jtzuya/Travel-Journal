@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.__travelCase:nth-of-type(even) .__wrapper {
+    flex-direction: row-reverse;
+}
